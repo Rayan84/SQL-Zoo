@@ -9,7 +9,7 @@
 * Atom
 
 ## Use online
-The quiz can found online 
+The quiz can be found online 
 Link: [Live Demo Link](https://sqlzoo.net/wiki/SELECT_Quiz)
 ##  :bust_in_silhouette: Worked on this challenge:
 # Rayan Rassam
